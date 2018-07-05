@@ -1,0 +1,141 @@
+@CHARSET "UTF-8";
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, samp, small, strong, sub,  tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.q {
+    quotes: none;
+}
+
+q:before, q:after {
+    content: "";
+    content: none;
+}
+
+a, ins, del {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th, td {
+    vertical-align: top;
+}
+
+th {
+    text-align: left;
+}
+
+body { 
+	text-align: center;
+	font-family: 'Open Sans', Arial, Verdana, Tahoma;
+	font-size: 14px;
+	color: #000; 
+	margin: 0px;
+	padding: 0px;
+	background: #fff;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+.clear { clear: Both; }
+.wrapper {
+	text-align: center;
+	margin: auto;
+	width: 870px;
+	padding-top: 40px;
+}
+a {color: inherit; }
+
+
+
+.intro {
+background: #fff;
+width: 870px;
+height: 630px;
+position: relative;
+position: absolute;
+top: 50%;
+margin-top: -350px;	
+}
+
+
+#zespol {
+	width: 599px; height: 60px;
+	position: absolute;
+	top: 335px;
+	left: 260px;
+	background: url(../image/zespol.png); 
+	display: block;
+}
+
+#osrodek {
+	width: 345px; height: 345px;
+	position: absolute;
+	top: 10px;
+	left: 221px;
+	background: url(../image/osrodek.png); 
+	display: block;
+}
+#sosw {
+	display: block;
+	width: 290px;
+	height: 277px;
+	background: url(../image/sosw.png);
+	position: absolute;
+	top: 232px;
+	left: 0px;
+}
+#sosw:hover { background: url(../image/sosw2.png); }
+
+#mow {
+	display: block;
+	width: 290px;
+	height: 277px;
+	background: url(../image/mow.png);
+	position: absolute;
+	top: 354px;
+	left: 250px;
+}
+#mow:hover { background: url(../image/mow2.png); }
+
+#rodo {
+	display: block;
+	width: 115px;
+	height: 31px;
+	background: url(../image/1.jpg);
+	position: absolute;
+	top: 410px;
+	left: 550px;
+}
+#rodo:hover { background: url(../image/1a.jpg); }
+
+#projekt {
+	display: block;
+	width: 115px;
+	height: 31px;
+	background: url(../image/2.jpg);
+	position: absolute;
+	top: 410px;
+	left: 670px;
+}
+#projekt:hover { background: url(../image/2a.jpg); }
+
+#kontakt {
+	display: block;
+	width: 115px;
+	height: 31px;
+	background: url(../image/3.jpg);
+	position: absolute;
+	top: 410px;
+	left: 790px;
+}
+#kontakt:hover { background: url(../image/3a.jpg); }
