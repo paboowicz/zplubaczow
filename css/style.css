@@ -114,20 +114,9 @@ margin-top: -350px;
 	background: url(../image/1.jpg);
 	position: absolute;
 	top: 410px;
-	left: 550px;
+	left: 570px;
 }
 #rodo:hover { background: url(../image/1a.jpg); }
-
-#projekt {
-	display: block;
-	width: 115px;
-	height: 31px;
-	background: url(../image/2.jpg);
-	position: absolute;
-	top: 410px;
-	left: 670px;
-}
-#projekt:hover { background: url(../image/2a.jpg); }
 
 #kontakt {
 	display: block;
@@ -136,6 +125,17 @@ margin-top: -350px;
 	background: url(../image/3.jpg);
 	position: absolute;
 	top: 410px;
-	left: 790px;
+	left: 690px;
 }
 #kontakt:hover { background: url(../image/3a.jpg); }
+
+#projekt {
+	display: block;
+	width: 235px;
+	height: 31px;
+	background: url(../image/projekt2.jpg);
+	position: absolute;
+	top: 446px;
+	left: 570px;
+}
+#projekt:hover { background: url(../image/projekt2a.jpg); }
