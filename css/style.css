@@ -132,10 +132,10 @@ margin-top: -350px;
 #projekt {
 	display: block;
 	width: 235px;
-	height: 31px;
-	background: url(../image/projekt2.jpg);
+	height: 150px;
+	background: url(../image/projekt3.jpg);
 	position: absolute;
 	top: 446px;
 	left: 570px;
 }
-#projekt:hover { background: url(../image/projekt2a.jpg); }
+#projekt:hover { background: url(../image/projekt3a.jpg); }
