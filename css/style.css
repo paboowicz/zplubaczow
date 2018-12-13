@@ -119,7 +119,7 @@ margin-top: -350px;
 #rodo:hover { background: url(../image/1a.jpg); }
 
 #kontakt {
-	display: block;
+	display: bloc	k;
 	width: 115px;
 	height: 31px;
 	background: url(../image/3.jpg);
@@ -151,3 +151,15 @@ margin-top: -350px;
 	left: 570px;
 }
 #przetargi:hover { background: url(../image/przetargia.jpg); }
+
+#przetarg-spoz {
+	display: block;
+	width: 235px;
+	height: 31px;
+	height: 31px;
+	background: url(../image/przetarg-artspoz.jpg);
+	position: absolute;
+	top: 290px;
+	left: 570px;
+}
+#przetarg-spoz:hover { background: url(../image/przetarg-artspoza.jpg); }
