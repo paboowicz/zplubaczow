@@ -132,13 +132,13 @@ margin-top: -350px;
 #projekt {
 	display: block;
 	width: 235px;
-	height: 150px;
-	background: url(../image/projekt3.jpg);
+	height: 59px;
+	background: url(../image/projekt4.jpg);
 	position: absolute;
 	top: 446px;
 	left: 570px;
 }
-#projekt:hover { background: url(../image/projekt3a.jpg); }
+#projekt:hover { background: url(../image/projekt4a.jpg); }
 
 #przetargi {
 	display: block;
@@ -147,7 +147,7 @@ margin-top: -350px;
 	height: 31px;
 	background: url(../image/przetargi.jpg);
 	position: absolute;
-	top: 602px;
+	top: 511px;
 	left: 570px;
 }
 #przetargi:hover { background: url(../image/przetargia.jpg); }
