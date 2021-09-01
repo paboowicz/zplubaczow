@@ -163,3 +163,16 @@ margin-top: -350px;
 	left: 570px;
 }
 #przetarg-spoz:hover { background: url(../image/przetarg-artspoza.jpg); }
+
+
+#kontaktmow {
+	display: block;
+	width: 235px;
+	height: 100px;
+	height: 100px;
+	background: url(../image/kontaktmow.jpg);
+	position: absolute;
+	top: 461px;
+	left: 570px;
+}
+#przetargi:hover { background: url(../image/kontaktmow.jpg); }
