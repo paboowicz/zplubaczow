@@ -176,3 +176,14 @@ margin-top: -350px;
 	left: 570px;
 }
 #przetargi:hover { background: url(../image/kontaktmow.jpg); }
+
+#deklaracja {
+	display: block;
+	width: 235px;
+	height: 31px;
+	background: url(../image/deklaracja1.jpg);
+	position: absolute;
+	top: 578px;
+	left: 570px;
+}
+#deklaracja:hover { background: url(../image/deklaracja2.jpg); }
